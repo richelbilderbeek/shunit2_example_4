@@ -14,7 +14,7 @@ The file `my_functions` contains the function `is_a` and `is_b`.
 The file `is_a_test` contains the test for `is_a`.
 The file `is_b_test` contains the test for `is_b`.
 
-The file `run` prompts the user for an `a` and a `b`, and displays a message dependent if the password is correct.
+The file `run` prompts the user for an `a` and a `b`, and displays a message dependent if the values are `a` and `b`.
 
 The file `tests` sources the tests of `my_functions_test` and `shunit2`, which triggers all tests to run.
 Note: in practice this does not happen yet.
